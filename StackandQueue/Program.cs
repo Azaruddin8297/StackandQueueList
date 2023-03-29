@@ -16,6 +16,14 @@
             Console.WriteLine("*************************");
             list.Pop();
             list.Display();
+            Console.WriteLine("*************************");
+            QueueList list1 = new QueueList();
+            list1.Enqueue(10);
+            list1.Enqueue(20);
+            list1.Enqueue(30);
+            list1.Enqueue(50);
+            Console.WriteLine("***************************");
+            list1.Display();
         }
     }
 }
