@@ -1,0 +1,15 @@
+D:\C#\StackandQueue\StackandQueue\bin\Debug\net6.0\StackandQueue.exe
+D:\C#\StackandQueue\StackandQueue\bin\Debug\net6.0\StackandQueue.deps.json
+D:\C#\StackandQueue\StackandQueue\bin\Debug\net6.0\StackandQueue.runtimeconfig.json
+D:\C#\StackandQueue\StackandQueue\bin\Debug\net6.0\StackandQueue.dll
+D:\C#\StackandQueue\StackandQueue\bin\Debug\net6.0\StackandQueue.pdb
+D:\C#\StackandQueue\StackandQueue\obj\Debug\net6.0\StackandQueue.csproj.AssemblyReference.cache
+D:\C#\StackandQueue\StackandQueue\obj\Debug\net6.0\StackandQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StackandQueue\StackandQueue\obj\Debug\net6.0\StackandQueue.AssemblyInfoInputs.cache
+D:\C#\StackandQueue\StackandQueue\obj\Debug\net6.0\StackandQueue.AssemblyInfo.cs
+D:\C#\StackandQueue\StackandQueue\obj\Debug\net6.0\StackandQueue.csproj.CoreCompileInputs.cache
+D:\C#\StackandQueue\StackandQueue\obj\Debug\net6.0\StackandQueue.dll
+D:\C#\StackandQueue\StackandQueue\obj\Debug\net6.0\refint\StackandQueue.dll
+D:\C#\StackandQueue\StackandQueue\obj\Debug\net6.0\StackandQueue.pdb
+D:\C#\StackandQueue\StackandQueue\obj\Debug\net6.0\StackandQueue.genruntimeconfig.cache
+D:\C#\StackandQueue\StackandQueue\obj\Debug\net6.0\ref\StackandQueue.dll
