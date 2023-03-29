@@ -11,6 +11,11 @@
             list.Push(50);
             Console.WriteLine("*************************");
             list.Display();
+            Console.WriteLine("*************************");
+            list.Peek();
+            Console.WriteLine("*************************");
+            list.Pop();
+            list.Display();
         }
     }
 }
